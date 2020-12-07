@@ -1,29 +1,17 @@
-﻿<Properties StartupConfiguration="{261D049D-AE4D-4091-A0E0-DAF0CB26D0D3}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Chatty.Api/Hubs/Clients/IChatClient.cs">
-    <Files>
-      <File FileName="Chatty.Api/Hubs/ChatHub.cs" Line="14" Column="2" />
-      <File FileName="Chatty.Api/Models/ChatMessage.cs" Line="9" Column="2" />
-      <File FileName="Chatty.Api/Hubs/Clients/IChatClient.cs" Line="10" Column="2" />
-    </Files>
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Chatty" expanded="True">
-            <Node name="Chatty.Api" expanded="True">
-              <Node name="Hubs" expanded="True">
-                <Node name="Clients" expanded="True">
-                  <Node name="IChatClient.cs" selected="True" />
-                </Node>
-              </Node>
-              <Node name="Models" expanded="True" />
-            </Node>
-          </Node>
+          <Node name="Chatty" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Chatty.Api PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <DisabledProjects>
+    <String>Chatty.Api/Chatty.Api.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
